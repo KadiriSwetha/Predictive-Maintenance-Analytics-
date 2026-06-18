@@ -1,13 +1,13 @@
-# 🚀 Predictive Maintenance Analytics 
+#  Predictive Maintenance Analytics 
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an end-to-end **Predictive Maintenance Analytics dashboard** built using Power BI to monitor industrial equipment performance, analyze failures, and identify high-risk assets.  
 
 The solution delivers both **executive-level insights** and **detailed operational analysis**, enabling data-driven decision-making.
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 The main objectives of this project are:
 
 - Monitor overall fleet performance and health  
@@ -18,15 +18,15 @@ The main objectives of this project are:
 
 ---
 
-## 🧩 Data Model
+##  Data Model
 The project follows a **star schema design** for efficient reporting.
 
-### 🔹 Fact Tables
+###  Fact Tables
 - Telemetry (Engine health data)
 - Maintenance (Service records)
 - FailureEvents (Failure & repair details)
 
-### 🔹 Dimension Tables
+###  Dimension Tables
 - Date  
 - Engine  
 - Region  
@@ -38,9 +38,9 @@ The project follows a **star schema design** for efficient reporting.
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
-### ✅ 1. Executive Overview
+###  1. Executive Overview
 Provides a high-level snapshot of performance.
 
 - Total Engines, Failures, Downtime  
@@ -50,7 +50,7 @@ Provides a high-level snapshot of performance.
 
 ---
 
-### ✅ 2. Maintenance Operations Analysis
+###  2. Maintenance Operations Analysis
 Focused on maintenance efficiency and cost.
 
 - Maintenance Cost & Activity Trends  
@@ -60,7 +60,7 @@ Focused on maintenance efficiency and cost.
 
 ---
 
-### ✅ 3. Failure Root Cause Analysis
+###  3. Failure Root Cause Analysis
 Helps identify failure patterns and business impact.
 
 - Failure Trends  
@@ -71,7 +71,7 @@ Helps identify failure patterns and business impact.
 
 ---
 
-### ✅ 4. Predictive Maintenance & Engine Health
+###  4. Predictive Maintenance & Engine Health
 Advanced analytics using telemetry data.
 
 - Health Score & Failure Probability  
@@ -81,7 +81,7 @@ Advanced analytics using telemetry data.
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI**
 - **DAX (Data Analysis Expressions)**
@@ -99,7 +99,7 @@ Advanced analytics using telemetry data.
 
 ---
 
-## 📈 Features
+##  Features
 
 - Interactive dashboards with slicers  
 - KPI-driven analysis  
@@ -109,7 +109,7 @@ Advanced analytics using telemetry data.
 
 ---
 
-## 🧠 Use Case
+##  Use Case
 
 This dashboard is useful for:
 
@@ -120,7 +120,7 @@ This dashboard is useful for:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates how Power BI can be used not only for reporting but also for **predictive analytics and intelligent decision-making** in industrial environments.
 
